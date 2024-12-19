@@ -159,3 +159,6 @@ def hello():
 
 if __name__ == '__main__':
     app.run(debug=True)
+#test:
+#https://api-lich-phat-song.vercel.app/
+#https://api-lich-phat-song.vercel.app/api/query?kenh=VTV1&serviceid=11&songay=2
